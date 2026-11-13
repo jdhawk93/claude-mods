@@ -1,0 +1,7 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "jdhawk93" },
+  "plugins": [
+    { "name": "cowork-or-code", "source": "./plugins/cowork-or-code", "description": "Recommends whether a task belongs in Cowork or Claude Code (/route <task>)" }
+  ]
+}
